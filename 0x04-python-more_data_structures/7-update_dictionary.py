@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 7-update_dictionary.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Sheillah
 
 
 def update_dictionary(a_dictionary, key, value):
