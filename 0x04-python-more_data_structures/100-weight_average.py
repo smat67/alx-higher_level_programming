@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 100-weight_average.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Sheillah
 
 
 def weight_average(my_list=[]):
