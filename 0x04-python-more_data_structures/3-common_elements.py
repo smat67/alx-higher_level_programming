@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 3-common_elements.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Sheillah
 
 
 def common_elements(set_1, set_2):
